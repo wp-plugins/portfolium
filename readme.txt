@@ -5,7 +5,7 @@ Contributors: portfolium, ramiy
 Tags: Portfolium, embed, projects, skills, experiences, entries, students, portfolio
 Requires at least: 3.5
 Tested up to: 4.1.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPL2+
 
 Embed projects, skills and experiences from Portfolium.com into your WordPress site
@@ -18,7 +18,7 @@ Using the Portfolium WordPress plugin you can showcase your projects, skills and
 
 = How to Embed Portfolium Entries =
 
-Choose any entry (or create your own!) from [portfolium.com](https://www.portfolium.com), copy the entry URL and paste it into your text editor. Then simply click over to the visual editor to confirm that it loads properly.
+Choose any entry from [portfolium.com](https://www.portfolium.com), or create your own! Copy the entry URL and paste it into your text editor. Then simply click over to the visual editor to confirm that it loads properly.
 
 For advanced customization, the plugin supports shortcodes with two parameters - "id" and "width":
 
@@ -48,16 +48,20 @@ For advanced customization, the plugin supports shortcodes with two parameters -
 == Screenshots ==
 1. Pasting the URL to the text-editor.
 2. Pasting the URL to the visual-editor.
-2. Using the shortcode with "id" and "width" parameters.
+2. Using the shortcode with entry "id" and embed "width" parameters.
 
 == Changelog ==
 
-= 1.1 =
+= 1.2 (2015-03-28) =
+* Prevent direct access to directories
+* Prevent direct access to php file
+
+= 1.1 (2015-03-19) =
 * Add portfolium shortcode.
 * Add screenshots.
 * Add i18n support.
 * Add hebrew (he_IL) traslation.
 
-= 1.0 =
+= 1.0 (2015-03-18) =
 * Initial release.
 * Register oEmbed provider.

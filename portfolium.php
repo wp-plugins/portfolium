@@ -2,13 +2,22 @@
 /*
 Plugin Name: Portfolium
 Description: Embed projects, skills and experiences from Portfolium.com into your WordPress site
-Version: 1.1
+Version: 1.2
 Author: Rami Yushuvaev
 Author URI: http://GenerateWP.com/
 Text Domain: portfolium
 Domain Path: /languages
 License: GPL2+
 */
+
+
+
+/*
+ * Prevent direct access to the file
+ */
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
 
 
 
