@@ -2,7 +2,7 @@
 Contributors: portfolium, ramiy
 Tags: Portfolium, embed, projects, skills, experiences, entries, students, portfolio
 Requires at least: 3.5
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -11,9 +11,19 @@ Embed projects, skills and experiences from Portfolium.com into your WordPress s
 
 == Description ==
 
+Create your own portfolio on portfolium and embed it to your WordPress site.
+
+= About Portfolium =
+
 [Portfolium](https://www.portfolium.com) is an e-portfolio site for students and young professionals to showcase their work and projects. Portfolium uniquely provides a deeper, more all-encompassing view of a student's passions, abilities and potential.
 
+= Portfolium WordPress Plugin =
+
 Using this plugin you can embed entries from [portfolium](https://portfolium.com/entries) into your WordPress site using nothing but the URL. Just copy the item URL and paste it to the post text editor. Then simply click over to the visual editor to confirm that it loads properly.
+
+= More Information =
+
+For any questions or more information, please [contact us](https://portfolium.com/contact).
 
 == Installation ==
 
